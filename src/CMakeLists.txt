@@ -1,0 +1,7 @@
+set(SOURCES
+        ClassUnderTest.cpp)
+
+set(HEADERS
+        ClassUnderTest.h)
+
+add_library(${CMAKE_PROJECT_NAME}_lib STATIC ${SOURCES} ${HEADERS})

@@ -1,0 +1,6 @@
+# build output
+cmake-build-debug/
+gallows.vcxproj
+gallows.vcxproj.filters
+gallows.vcxproj.user
+Debug/

@@ -1,0 +1,13 @@
+dad
+mother
+boy
+girl
+parents
+family
+dog
+cat
+car
+home
+keyboard
+street
+wild
